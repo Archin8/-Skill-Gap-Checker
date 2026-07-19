@@ -1,0 +1,164 @@
+{
+  "Software Development": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Tech Solutions Inc.",
+      "location": "Remote",
+      "description": "Responsible for building the 'client-side' of our web applications.",
+      "requiredSkills": ["React", "JavaScript", "HTML", "CSS", "API Integration"]
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "company": "Data Systems",
+      "location": "New York, NY",
+      "description": "Seeking an experienced Backend Developer to build and maintain the server-side logic.",
+      "requiredSkills": ["Node.js", "Express", "MongoDB", "REST APIs", "Authentication"]
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Engineer",
+      "company": "Innovate LLC",
+      "location": "San Francisco, CA",
+      "description": "Join our dynamic team, working on both frontend and backend technologies.",
+      "requiredSkills": ["React", "Node.js", "SQL", "Docker", "AWS"]
+    },
+    {
+      "id": 14,
+      "title": "Mobile Developer (Android)",
+      "company": "MobileFirst",
+      "location": "Remote",
+      "description": "Develop and maintain high-quality Android applications.",
+      "requiredSkills": ["Kotlin", "Java", "Android SDK", "Jetpack Compose"]
+    },
+    {
+      "id": 15,
+      "title": "DevOps Engineer",
+      "company": "DeployFast",
+      "location": "Austin, TX",
+      "description": "Manage and improve our CI/CD pipeline and cloud infrastructure.",
+      "requiredSkills": ["AWS", "Kubernetes", "Docker", "Terraform", "Jenkins"]
+    },
+    {
+      "id": 16,
+      "title": "QA Engineer",
+      "company": "Quality Assured",
+      "location": "Boston, MA",
+      "description": "Ensure the quality of our software through manual and automated testing.",
+      "requiredSkills": ["Selenium", "Cypress", "Jira", "SQL", "API Testing"]
+    },
+    {
+      "id": 17,
+      "title": "Cloud Engineer",
+      "company": "SkyHigh Cloud",
+      "location": "Remote",
+      "description": "Design, implement, and manage our cloud-based systems on AWS.",
+      "requiredSkills": ["AWS", "Lambda", "EC2", "S3", "Python"]
+    }
+  ],
+  "Data Science": [
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "company": "Analytics Co.",
+      "location": "Boston, MA",
+      "description": "Analyze large amounts of raw information to find patterns and build data products.",
+      "requiredSkills": ["Python", "R", "SQL", "Machine Learning", "Statistics"]
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning Engineer",
+      "company": "AI Innovations",
+      "location": "Remote",
+      "description": "Develop and deploy machine learning models to solve real-world problems.",
+      "requiredSkills": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Cloud Platforms"]
+    },
+    {
+      "id": 18,
+      "title": "Data Engineer",
+      "company": "DataFlow",
+      "location": "New York, NY",
+      "description": "Build and maintain our data pipelines and infrastructure.",
+      "requiredSkills": ["SQL", "Python", "ETL", "Spark", "Airflow"]
+    },
+    {
+      "id": 19,
+      "title": "Business Intelligence Analyst",
+      "company": "Insightful Reports",
+      "location": "Chicago, IL",
+      "description": "Create dashboards and reports to help drive business decisions.",
+      "requiredSkills": ["Tableau", "Power BI", "SQL", "Excel", "Data Visualization"]
+    },
+    {
+      "id": 20,
+      "title": "Research Scientist",
+      "company": "Future Labs",
+      "location": "Palo Alto, CA",
+      "description": "Conduct research in the field of artificial intelligence and publish findings.",
+      "requiredSkills": ["PhD", "PyTorch", "Deep Learning", "NLP", "Computer Vision"]
+    }
+  ],
+  "Project Management": [
+    {
+      "id": 6,
+      "title": "Technical Project Manager",
+      "company": "Agile Works",
+      "location": "Austin, TX",
+      "description": "Lead our engineering projects from conception to launch.",
+      "requiredSkills": ["Agile", "Scrum", "Jira", "Roadmapping", "Stakeholder Management"]
+    },
+    {
+      "id": 21,
+      "title": "Program Manager",
+      "company": "ScaleUp Inc.",
+      "location": "Seattle, WA",
+      "description": "Oversee multiple related projects to ensure strategic goals are met.",
+      "requiredSkills": ["Program Management", "Risk Management", "Budgeting", "PMP"]
+    },
+    {
+      "id": 22,
+      "title": "Agile Coach",
+      "company": "Lean Principles",
+      "location": "Remote",
+      "description": "Coach and mentor teams on Agile principles and practices.",
+      "requiredSkills": ["Scrum", "Kanban", "SAFe", "Coaching", "Mentoring"]
+    }
+  ],
+  "Cybersecurity": [
+    {
+      "id": 12,
+      "title": "Security Analyst",
+      "company": "SecureNet",
+      "location": "Washington, D.C.",
+      "description": "Monitor security alerts, respond to incidents, and conduct vulnerability assessments.",
+      "requiredSkills": ["SIEM", "Intrusion Detection", "Firewalls", "Incident Response"]
+    },
+    {
+      "id": 23,
+      "title": "Security Architect",
+      "company": "Fortress Systems",
+      "location": "Remote",
+      "description": "Design and build secure cloud and network architectures.",
+      "requiredSkills": ["Network Security", "Cloud Security", "CISSP", "Cryptography"]
+    },
+    {
+      "id": 24,
+      "title": "Incident Responder",
+      "company": "CyberShield",
+      "location": "Dallas, TX",
+      "description": "Respond to and investigate cybersecurity incidents and breaches.",
+      "requiredSkills": ["Forensics", "Malware Analysis", "Incident Handling", "Scripting"]
+    }
+  ],
+  "UI/UX Design": [
+    {
+      "id": 25,
+      "title": "UI/UX Designer",
+      "company": "Creative Pixels",
+      "location": "San Francisco, CA",
+      "description": "Design beautiful and intuitive user interfaces for web and mobile applications.",
+      "requiredSkills": ["Figma", "Sketch", "Adobe XD", "User Research", "Prototyping"]
+    }
+  ]
+}
